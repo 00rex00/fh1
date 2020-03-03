@@ -175,7 +175,7 @@
             </OOBE>
             <UserAccounts>
                 <AdministratorPassword>
-                    <Value>packer</Value>
+                    <Value>abracadabra.99</Value>
                     <PlainText>true</PlainText>
                 </AdministratorPassword>
             </UserAccounts>
